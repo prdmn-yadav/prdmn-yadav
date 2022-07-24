@@ -1,7 +1,6 @@
 ### Hi there 👋 I'm Pradumna Kumar Yadav
 
 <I'm Pradumna Kumar Yadav,an Engineering Student & Passionate Software Developer from India.
-**prdmn-yadav/prdmn-yadav is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
