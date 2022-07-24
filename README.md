@@ -2,8 +2,6 @@
 
 <I'm Pradumna Kumar Yadav,an Engineering Student & Passionate Software Developer from India.
 
-Here are some ideas to get you started:
-
 - 🔭 Passionate for learning &exploring new Tech 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
